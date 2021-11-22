@@ -1,0 +1,66 @@
+body{
+    margin: auto;
+}
+
+main {
+    padding: 10px;
+}
+
+header {
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    background-size: 350px;
+    background-color: #4EA0FF;
+    height: 100px;
+}
+
+.logo {
+    margin-top: 40px;
+    margin-left: 10px;
+    height: 50px;
+  }
+  
+#titolo {
+    font-size: 2.5em;
+}
+
+.crediti {
+    line-height: 0.5px;
+}
+
+h4.grigio {
+    font-size: 0.65em;
+}
+
+.foto-tim {
+    font-size: 0.65em;
+}
+
+.grigio {
+    color: gray;
+}
+
+.blu {
+    color: blue;
+}
+
+.evidenziatore-giallo {
+    background-color: yellow;
+}
+
+.tabella {
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+  }
+
+th {
+    color: white;
+    background-color: #20a9e5;
+}
+
+tr:nth-child(even){
+    background-color: #b1e5f2;
+}
