@@ -56,6 +56,14 @@ table {
     border-collapse: collapse;
   }
 
+.prima-colonna {
+    width: 25%;
+}
+
+.seconda-colonna {
+    width: 25%;
+}
+
 th {
     color: white;
     background-color: #20a9e5;
